@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\bin\Debug\net7.0\LibraryManagement.exe
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\bin\Debug\net7.0\LibraryManagement.deps.json
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\bin\Debug\net7.0\LibraryManagement.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\bin\Debug\net7.0\LibraryManagement.dll
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\bin\Debug\net7.0\LibraryManagement.pdb
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.dll
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\refint\LibraryManagement.dll
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.pdb
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\ref\LibraryManagement.dll
